@@ -17,3 +17,4 @@ create or replace PACKAGE OSS_SAAS_REST_PLUGIN AS
       p_result     in out nocopy apex_plugin.t_web_source_fetch_result );      
 
 END OSS_SAAS_REST_PLUGIN;
+/
